@@ -1,0 +1,23 @@
+.contacto{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    background-color: lightskyblue;
+}
+
+.imagen1{
+    position: absolute;
+    top: 50px;
+    right: 900px;
+}
+
+.p{
+    position: absolute;
+    top: 350px;
+    left: 20px;
+}
+
+body{
+    background-color: darkgoldenrod;
+}
+
